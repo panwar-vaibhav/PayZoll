@@ -27,12 +27,13 @@ PayZoll is a Web3-powered payroll management platform that enables businesses to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/payzoll.git
+   git clone https://github.com/panwar-vaibhav/payzoll.git
    ```
 
 2. Install dependencies:
    ```bash
    cd payzoll
+   cd PayZoll\ Frontend/
    npm install
    ```
 
