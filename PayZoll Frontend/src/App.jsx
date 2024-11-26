@@ -8,6 +8,7 @@ import EmployeesPage from './pages/EmployeesPage';
 import PaymentsPage from './pages/PaymentsPage';
 import ESOPPage from './pages/ESOPPage';
 import SettingsPage from './pages/SettingsPage';
+import LendingPage from './pages/LendingPage';
 
 export default function App() {
   return (
@@ -21,6 +22,7 @@ export default function App() {
         <Route path="/employer/payments" element={<PaymentsPage />} />
         <Route path="/employer/esops" element={<ESOPPage />} />
         <Route path="/employer/settings" element={<SettingsPage />} />
+        <Route path="/lending" element={<LendingPage />} />
       </Routes>
     </Router>
   );
