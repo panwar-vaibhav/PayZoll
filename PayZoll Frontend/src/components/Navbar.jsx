@@ -18,6 +18,7 @@ export default function Navbar() {
             <a href="#home" className="text-gray-400 hover:text-indigo-400 transition-colors">Home</a>
             <a href="#features" className="text-gray-400 hover:text-indigo-400 transition-colors">Features</a>
             <a href="#how-it-works" className="text-gray-400 hover:text-indigo-400 transition-colors">How It Works</a>
+            <a href="#contact" className="text-gray-400 hover:text-indigo-400 transition-colors">Technology</a>
             <a href="#pricing" className="text-gray-400 hover:text-indigo-400 transition-colors">Pricing</a>
             <a href="#contact" className="text-gray-400 hover:text-indigo-400 transition-colors">Contact</a>
             <Link 
